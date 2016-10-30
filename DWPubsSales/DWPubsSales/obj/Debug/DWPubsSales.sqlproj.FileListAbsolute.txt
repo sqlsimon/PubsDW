@@ -1,0 +1,9 @@
+C:\Work\git-src\PubsDW\DWPubsSales\DWPubsSales\bin\Debug\DWPubsSales.dacpac
+C:\Work\git-src\PubsDW\DWPubsSales\DWPubsSales\bin\Debug\DWPubsSales.dll
+C:\Work\git-src\PubsDW\DWPubsSales\DWPubsSales\bin\Debug\DWPubsSales.pdb
+C:\Work\git-src\PubsDW\DWPubsSales\DWPubsSales\obj\Debug\DWPubsSales.dll
+C:\Work\git-src\PubsDW\DWPubsSales\DWPubsSales\obj\Debug\DWPubsSales.pdb
+C:\Work\git-src\PubsDW\DWPubsSales\DWPubsSales\obj\Debug\Model.xml
+C:\Work\git-src\PubsDW\DWPubsSales\DWPubsSales\obj\Debug\refactor.xml
+C:\Work\git-src\PubsDW\DWPubsSales\DWPubsSales\obj\Debug\postdeploy.sql
+C:\Work\git-src\PubsDW\DWPubsSales\DWPubsSales\obj\Debug\predeploy.sql

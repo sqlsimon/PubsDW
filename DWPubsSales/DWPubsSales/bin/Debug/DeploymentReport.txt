@@ -1,0 +1,28 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[DimAuthors] (Table)
+       [dbo].[DimDates] (Table)
+       [dbo].[DimPublishers] (Table)
+       [dbo].[DimStores] (Table)
+       [dbo].[DimTitles] (Table)
+       [dbo].[FactSales] (Table)
+       [dbo].[FactTitlesAuthors] (Table)
+       [dbo].[FK_DimTitles_DimPublishers] (Foreign Key)
+       [dbo].[FK_DimTitles_DimDates] (Foreign Key)
+       [dbo].[FK_FactSales_DimStores] (Foreign Key)
+       [dbo].[FK_FactSales_DimTitles] (Foreign Key)
+       [dbo].[FK_FactSales_DimDates] (Foreign Key)
+       [dbo].[FK_FactTitlesAuthors_DimTitles] (Foreign Key)
+       [dbo].[FK_FactTitlesAuthors_DimAuthors] (Foreign Key)
+
+** Supporting actions
